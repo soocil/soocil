@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">
+  Hello there 👋
+</h1>
 
-<!--
-**soocil/soocil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+  Welcome to my secondary GitHub profile — tailored for recruiters and collaborations 🔗
+</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  Feel free to explore my work here. For a more comprehensive view of my projects, contributions, and activity:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">
+  👉 Check out my <a href="https://github.com/sooocil" target="_blank">Primary GitHub Account</a>
+</h3>
